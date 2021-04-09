@@ -1,0 +1,60 @@
+bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_count,text_reviews_count,publication_date,publisher,availability,rack no,due
+1,Harry Potter and the Order of the Phoenix (Harry Potter  #5),J.K. Rowling/Mary GrandPré,4.49,439358078,9780439358071,eng,870,2153167,29221,9/1/2004,Scholastic Inc.,yes,111,
+2,Harry Potter and the Chamber of Secrets (Harry Potter  #2),J.K. Rowling,4.42,439554896,9780439554893,eng,352,6333,244,11/1/2003,Scholastic,yes ,112,
+3,Harry Potter and the Prisoner of Azkaban (Harry Potter  #3),J.K. Rowling/Mary GrandPré,4.56,043965548X,9780439655484,eng,435,2339585,36325,5/1/2004,Scholastic Inc.,yes,113,
+4,Harry Potter Boxed Set  Books 1-5 (Harry Potter  #1-5),J.K. Rowling/Mary GrandPré,4.78,439682584,9780439682589,eng,2690,41428,164,9/13/2004,Scholastic,no,,1
+5,"Unauthorized Harry Potter Book Seven News: ""Half-Blood Prince"" Analysis and Speculation",W. Frederick Zimmerman,3.74,976540606,9780976540601,en-US,152,19,1,4/26/2005,Nimble Books,yes,114,
+6,Artesia: Adventures in the Known World,Mark Smylie,4.13,1932386106,9781932386103,eng,352,52,4,12/14/2005,Archaia,no,,2
+7,The John McPhee Reader (John McPhee Reader  #1),John McPhee/William Howarth,4.42,374517193,9780374517199,eng,416,562,37,6/1/1982,Farrar  Straus and Giroux,yes,115,
+8,Uncommon Carriers,John McPhee,3.95,374280398,9780374280390,en-US,248,1630,203,5/16/2006,Farrar Straus Giroux,no,,3
+9,Heirs of General Practice,John McPhee,4.17,374519749,9780374519742,eng,128,268,22,4/1/1986,Farrar  Straus and Giroux,yes,116,
+10,The Control of Nature,John McPhee,4.24,374522596,9780374522599,en-US,288,3498,305,9/1/1990,Farrar  Straus and Giroux,yes ,117,
+11,Death on the Nile (Hercule Poirot  #17),Agatha Christie,4.1,1579126898,9781579126896,eng,351,674,91,3/30/2007,Black Dog & Leventhal Publishers,yes,118,
+12,Mrs. McGinty's Dead (Hercule Poirot  #30),Agatha Christie,3.83,7121008,9780007121007,eng,328,572,74,7/1/2002,HarperCollins Publishers,no,,4
+13,The Most of P.G. Wodehouse,P.G. Wodehouse,4.48,743203585,9780743203586,eng,701,1872,106,11/1/2000,Simon & Schuster,yes,119,
+14,Full Moon (Blandings Castle  #7),P.G. Wodehouse,4.17,1585678368,9781585678365,eng,272,1860,131,11/23/2006,Harry N. Abrams,no,,5
+15,How Right You Are  Jeeves (Jeeves  #12),P.G. Wodehouse,4.17,743203593,9780743203593,eng,206,2769,156,11/1/2000,Touchstone,yes,114,
+16,Life With Jeeves (Jeeves  #6  2  & 4),P.G. Wodehouse,4.39,140059024,9780140059021,eng,557,3169,137,9/29/1983,Penguin Books,yes,115,
+17,Spring Fever,P.G. Wodehouse,4.05,158567575X,9781585675753,eng,276,483,31,10/21/2004,Harry N. Abrams,yes ,116,
+18,Carry On  Jeeves (Jeeves  #3),P.G. Wodehouse,4.27,1585673927,9781585673926,eng,273,15598,771,3/31/2003,The Overlook Press,yes,117,
+19,Lord Emsworth and Others (Blandings Castle  #5.5),P.G. Wodehouse,4.16,1585672777,9781585672776,eng,268,1099,77,5/13/2002,The Overlook Press,no,,6
+20,The Haj,Leon Uris,4.03,553248642,9780553248647,eng,525,11372,396,5/1/1985,Bantam,yes,118,
+21,Mila 18,Leon Uris,4.29,553241605,9780553241600,eng,563,21662,485,11/1/1983,Bantam,no,,
+22,A God in Ruins,Leon Uris,3.26,61097934,9780061097935,eng,517,1208,104,9/5/2000,Avon,yes,119,
+23,Battle Cry,Leon Uris,4.15,006075186X,9780060751869,eng,694,8323,137,6/28/2005,Avon,no,,7
+24,The Angry Hills,Leon Uris,3.67,553277871,9780553277876,eng,245,1163,50,1/1/1984,Bantam,yes,120,
+25,Exodus,Leon Uris,4.34,553258478,9780553258479,eng,608,85927,1520,10/1/1986,Bantam Books  Inc.,yes ,121,
+26,Oh  Play That Thing,Roddy Doyle,3.29,014303605X,9780143036050,en-US,384,1545,105,10/25/2005,Penguin Books,yes,122,
+27,The Van (The Barrytown Trilogy  #3),Roddy Doyle,3.94,140260021,9780140260021,eng,320,5718,164,3/1/1997,Penguin Books,no,,8
+28,Fish & Chips (The Barrytown Trilogie  #3),Roddy Doyle/Renate Orth-Guttmann,3.94,3596153026,9783596153022,ger,314,2,0,10/1/2002,Fischer Taschenbuch Verlag,yes,123,
+29,The Giggler Treatment,Roddy Doyle/Brian Ajhar,4.17,439993857,9780439993852,en-GB,112,1425,149,7/20/2001,Scholastic  Inc.,no,,9
+30,A Star Called Henry,Roddy Doyle,3.84,99284480,9780099284482,eng,342,6885,438,9/7/2000,Vintage,yes,124,
+31,The Van,Roddy Doyle,3.94,043620052X,9780436200526,eng,312,30,4,8/4/1991,Secker and Warburg,yes,125,
+32,Rover rettet Weihnachten.,Roddy Doyle/Brian Ajhar,4.12,3570127214,9783570127216,ger,160,1,0,9/1/2002,Omnibus Hc Bei Bertelsmann,yes ,126,
+33,The Snapper,Roddy Doyle,3.93,3596153034,9783596153039,ger,217,26,5,9/1/2002,Fischer TB,yes,127,
+34,Yeats Is Dead,Roddy Doyle/Frank McCourt/Conor McPherson/Gene Kerrigan/Gina Moxley/Marian Keyes/Pauline McLynn/Tom Humphries/Joseph O'Connor/Anthony Cronin/Owen O'Neill/Hugo Hamilton/Charlie O'Neill/Gerard Stembridge/Donal O'Kelly,3.4,99422344,9780099422341,eng,298,34,4,6/6/2002,Vintage,no,,10
+35,The Fantastic Vampire: Studies in the Children of the Night: Selected Essays from the Eighteenth International Conference on the Fantastic in the Arts,James Craig Holte,0,313309337,9780313309335,eng,176,0,0,3/30/2002,Greenwood Press,yes,128,
+36,A Dracula Handbook,Elizabeth Russell Miller,4.07,1413480942,9781413480948,eng,200,10,1,3/23/2005,Xlibris Corporation,no,,11
+37,Real Estate Loopholes: Secrets of Successful Real Estate Investing,Diane  Kennedy/Garrett Sutton/Robert T. Kiyosaki,4.15,446691356,9780446691352,eng,240,721,9,12/31/2003,Warner Books (NY),yes,129,
+38,Hope is the Thing with Feathers: A Personal Chronicle of Vanished Birds,Christopher Cokinos,4.22,446677493,9780446677493,eng,384,308,33,4/1/2001,Warner Books (NY),no,,12
+39,Goodbye Forever (Sweet Dreams  #72),Barbara Conklin,3.76,055324356X,9780553243567,eng,135,56,0,12/31/1984,Bantam Books,yes,130,
+40,Winter Dreams (Sweet Dreams  #141),Barbara Conklin,3.85,553270621,9780553270624,eng,176,104,4,2/1/1988,Bantam Books,yes ,131,
+41,First  Last and Always (Sweet Dreams  #96),Barbara Conklin,3.76,553251791,9780553251791,eng,160,65,2,9/1/1985,Bantam Books,yes,132,
+42,P.S. I Love You (Sealed with a Kiss #4),Valerie Parv,2.83,373033664,9780373033669,eng,192,23,1,4/24/1995,Harlequin Romance,no,,13
+43,Dark Lover (Black Dagger Brotherhood  #1),J.R. Ward,4.2,451216954,9780451216953,eng,393,259511,10475,9/6/2005,Penguin Group (USA),yes,133,
+44,Lover Awakened (Black Dagger Brotherhood  #3),J.R. Ward,4.45,451219368,9780451219367,eng,448,144906,5728,9/5/2006,Signet,no,,14
+45,All Things Wise and Wonderful,James Herriot,4.41,312335288,9780312335281,eng,448,22780,366,11/1/2004,St. Martin's Griffin,yes,136,
+46,CliffsNotes on Remarque's All Quiet on the Western Front,Susan Van Kirk/CliffsNotes/Erich Maria Remarque,4.24,764586718,9780764586712,eng,112,12,0,12/20/2000,Cliffs Notes,yes,129,
+47,All Quiet on the Western Front,Erich Maria Remarque,3.97,449231801,9780449231807,en-GB,256,64,4,3/12/1987,Fawcett Crest,yes ,130,
+48,The Nightingale's Song,Kathleen Eschenburg,3.88,380815699,9780380815692,eng,384,16,3,10/30/2001,HarperTorch,yes,131,
+49,Nightingale's Song,Kate Pennington,3.02,340878754,9780340878750,en-GB,219,40,5,10/19/2006,Hachette Children's,no,,15
+50,Gai-Jin (Asian Saga  #3),James Clavell,3.86,044021680X,9780440216803,eng,1236,10757,296,4/3/1994,Dell,yes,129,
+51,Whirlwind (Asian Saga  #6),James Clavell,3.82,340766182,9780340766187,eng,1231,5626,164,12/2/1999,Morrow,no,,16
+52,Tai-Pan (Asian Saga  #2),James Clavell,4.27,440184622,9780440184621,eng,734,39315,778,9/1/2009,Dell,yes,130,
+53,Escape: The Love Story from Whirlwind,James Clavell,3.63,340654163,9780340654163,eng,584,276,14,7/1/1999,Hodder & Stoughton,no,,17
+54,Alaska,James A. Michener,4.12,037576142X,9780375761423,eng,868,9330,590,11/12/2002,Dial Press Trade Paperback,yes,133,
+55,The Drifters,James A. Michener,4.04,449213536,9780449213537,eng,768,6253,353,10/12/1986,Fawcett Books,yes ,134,
+56,Sayonara,James A. Michener,3.81,449204146,9780449204146,eng,208,1848,104,9/12/1983,Fawcett,yes,135,
+57,The Bridge at Andau,James A. Michener,3.94,449210502,9780449210505,en-US,288,1135,158,9/12/1985,Fawcett,no,,18
+58,Caribbean,James A. Michener,3.93,812974921,9780812974928,eng,672,4718,232,12/13/2005,Dial Press,yes,134,
+59,War and Remembrance (The Henry Family  #2),Herman Wouk,4.41,316954993,9780316954990,eng,1042,29555,680,2/5/2002,Back Bay Books,no,,19
